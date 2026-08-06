@@ -1,0 +1,51 @@
+# AI Capabilities
+
+This document defines the AI capabilities that may be associated with an impact.
+
+## Generative AI
+
+Creates new content such as text, images, audio, video, or code.
+
+## Computer Vision
+
+Analyzes and interprets images and videos.
+
+## Natural Language Processing (NLP)
+
+Understands, processes, and generates human language.
+
+## Speech & Audio
+
+Speech recognition, speech synthesis, and audio analysis.
+
+## Recommendation Systems
+
+Suggests products, content, or decisions based on data.
+
+## Predictive Analytics
+
+Forecasts outcomes using historical data.
+
+## Robotics
+
+Controls or assists physical machines and robots.
+
+## Autonomous Systems
+
+Makes decisions and acts with limited or no human intervention.
+
+## Decision Support
+
+Provides recommendations to assist human decision-making.
+
+## Knowledge Retrieval
+
+Searches, retrieves, and summarizes information.
+
+## Multi-Agent Systems
+
+Coordinates multiple AI agents to solve complex tasks.
+
+## Optimization
+
+Improves schedules, logistics, resource allocation, or processes.
